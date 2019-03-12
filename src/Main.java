@@ -7,6 +7,14 @@ public class Main {
     public void getClass(){
         System.out.println("nihao");
     }
+    /**
+    *  @author: lixiandong
+    *  @Date: 2019/3/12 17:01
+    *  @Description:打印名字的方法
+    */
+    public void getName(){
+        System.out.println("lixiandong");
+    }
 
     /** 
      * kjgfhvkkjkj
