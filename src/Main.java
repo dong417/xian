@@ -15,6 +15,10 @@ public class Main {
     public void getName(){
         System.out.println("lixiandong");
     }
+    public void getSex(){
+        System.out.println("男");
+
+    }
 
     /** 
      * kjgfhvkkjkj
