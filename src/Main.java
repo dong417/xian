@@ -17,6 +17,8 @@ public class Main {
     }
     public void getSex(){
         System.out.println("男");
+        System.out.println("nv");
+
 
     }
 
